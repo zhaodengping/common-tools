@@ -12,3 +12,6 @@
 
 - 地图(基于vue和高德地图),[参考文档](https://elemefe.github.io/vue-amap/#/)
 `npm install vue-amap --save`
+
+- 导入导出excel表，[参考文档](https://github.com/stardew516/xlsxDwonload)
+`npm install xlsx`
